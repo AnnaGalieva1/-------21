@@ -1,0 +1,16 @@
+C:\Users\annet\OneDrive\Рабочий стол\Семинар Csharp\задача 21\bin\Debug\net6.0\задача 21.exe
+C:\Users\annet\OneDrive\Рабочий стол\Семинар Csharp\задача 21\bin\Debug\net6.0\задача 21.deps.json
+C:\Users\annet\OneDrive\Рабочий стол\Семинар Csharp\задача 21\bin\Debug\net6.0\задача 21.runtimeconfig.json
+C:\Users\annet\OneDrive\Рабочий стол\Семинар Csharp\задача 21\bin\Debug\net6.0\задача 21.dll
+C:\Users\annet\OneDrive\Рабочий стол\Семинар Csharp\задача 21\bin\Debug\net6.0\ref\задача 21.dll
+C:\Users\annet\OneDrive\Рабочий стол\Семинар Csharp\задача 21\bin\Debug\net6.0\задача 21.pdb
+C:\Users\annet\OneDrive\Рабочий стол\Семинар Csharp\задача 21\obj\Debug\net6.0\задача 21.GlobalUsings.g.cs
+C:\Users\annet\OneDrive\Рабочий стол\Семинар Csharp\задача 21\obj\Debug\net6.0\задача 21.csproj.AssemblyReference.cache
+C:\Users\annet\OneDrive\Рабочий стол\Семинар Csharp\задача 21\obj\Debug\net6.0\задача 21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annet\OneDrive\Рабочий стол\Семинар Csharp\задача 21\obj\Debug\net6.0\задача 21.AssemblyInfoInputs.cache
+C:\Users\annet\OneDrive\Рабочий стол\Семинар Csharp\задача 21\obj\Debug\net6.0\задача 21.AssemblyInfo.cs
+C:\Users\annet\OneDrive\Рабочий стол\Семинар Csharp\задача 21\obj\Debug\net6.0\задача 21.csproj.CoreCompileInputs.cache
+C:\Users\annet\OneDrive\Рабочий стол\Семинар Csharp\задача 21\obj\Debug\net6.0\задача 21.dll
+C:\Users\annet\OneDrive\Рабочий стол\Семинар Csharp\задача 21\obj\Debug\net6.0\ref\задача 21.dll
+C:\Users\annet\OneDrive\Рабочий стол\Семинар Csharp\задача 21\obj\Debug\net6.0\задача 21.pdb
+C:\Users\annet\OneDrive\Рабочий стол\Семинар Csharp\задача 21\obj\Debug\net6.0\задача 21.genruntimeconfig.cache
